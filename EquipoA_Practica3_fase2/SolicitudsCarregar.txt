@@ -1,0 +1,7 @@
+Mihai,12345678A,GEI,6,angles,1,2,3,
+Jordi,92345674B,GEI,8,angles,3,1,2,
+Cristian,99845917J,GEE,6,angles,4,2,6,
+Daniel,11445678B,GET,4,angles,4,8,0,
+Toreto,32245620X,GEF,8.5,angles,1,3,9,
+Paul,39845132H,GEQ,7.9,angles,2,4,7,
+Paül,39845132G,GEQ,7.9,alemany,2,4,7,
